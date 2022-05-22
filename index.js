@@ -20,13 +20,5 @@ for (var i = 0; i < pesos.length; i++) {
     }
    // laço para achar posição
   var posicao = pesos.indexOf(menorNum);
-  
-
-   }
-
- 
-
-
-
-
+    }
 console.log(' Menor peso: ' + menorNum + 'KG está na posição ' + posicao )
